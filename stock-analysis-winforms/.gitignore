@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio per-user and cache files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.pdb
+*.cache
+
+# NuGet packages (restored on build)
+packages/
+*.nupkg
+
+# OS junk
+Thumbs.db
+.DS_Store
