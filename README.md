@@ -2,8 +2,7 @@
 
 A Windows desktop app (C# / .NET Framework 4.7.2 / WinForms) for charting stock price history and detecting candlestick patterns.
 
-![Main window](docs/home.png)
-![Chart view](docs/chart.png)
+
 
 ## Features
 
